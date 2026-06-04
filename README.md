@@ -46,7 +46,7 @@ https://password-generator-rudransh.netlify.app/
 ## 🧬 Project Structure
 
 ```
-cyber-password-generator/
+password-generator/
 │
 ├── index.html
 ├── style.css
