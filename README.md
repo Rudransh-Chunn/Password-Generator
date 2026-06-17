@@ -6,12 +6,6 @@ Built using pure **HTML, CSS, and JavaScript (no frameworks)**.
 
 ---
 
-## ⚡ Live Demo
-
-```
-https://password-generator-rudransh.netlify.app/
-```
-
 ---
 
 ## 🧠 Features
