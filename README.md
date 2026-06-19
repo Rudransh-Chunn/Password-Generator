@@ -1,4 +1,4 @@
-# 💀 Cyber Password Generator
+#  Cyber Password Generator
 
 A futuristic **cyberpunk-themed password generator** with Matrix rain background, real-time strength analysis, and customizable security options.
 
@@ -8,24 +8,24 @@ Built using pure **HTML, CSS, and JavaScript (no frameworks)**.
 
 ---
 
-## 🧠 Features
+##  Features
 
-* 🌧 Matrix rain animated background
-* 🔐 Strong password generator using secure randomness (`crypto`)
-* 📊 Real-time strength meter (Weak → Hacker-Proof)
-* ⚙️ Custom options:
+*  Matrix rain animated background
+*  Strong password generator using secure randomness (`crypto`)
+*  Real-time strength meter (Weak → Hacker-Proof)
+*  Custom options:
 
   * Uppercase letters
   * Lowercase letters
   * Numbers
   * Symbols
-* 📋 One-click copy to clipboard
-* 🧊 Cyberpunk UI with neon glow effects
-* 🧾 Personal signature branding
+*  One-click copy to clipboard
+*  Cyberpunk UI with neon glow effects
+*  Personal signature branding
 
 ---
 
-## 🖥️ Tech Stack
+##  Tech Stack
 
 * HTML5
 * CSS3 (Glassmorphism + animations)
@@ -37,7 +37,7 @@ Built using pure **HTML, CSS, and JavaScript (no frameworks)**.
 
 ---
 
-## 🧬 Project Structure
+##  Project Structure
 
 ```
 password-generator/
@@ -49,7 +49,7 @@ password-generator/
 ```
 ---
 
-## 💀 About
+##  About
 
 This project is designed as a **cyberpunk security tool UI concept**, combining visual effects with practical password generation logic.
 
@@ -57,7 +57,7 @@ Made for learning + portfolio showcase.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Rudransh Chunn**
 
